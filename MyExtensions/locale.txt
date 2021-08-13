@@ -1,0 +1,6 @@
+[zh-cn]
+Theme Colors = Theme Colors
+Change the theme colors of your design = Change the theme colors of your design
+White on Black = White on Black
+Black on White = Black on White
+Custom Colors... = Custom Colors...
