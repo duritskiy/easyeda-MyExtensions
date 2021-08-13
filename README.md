@@ -12,5 +12,5 @@
  
  3) Reload Easy-eda.
 
-![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/v1.0/SmartCopyPaste.gif)
+![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/v1.0/1%20Sch%20-%20Copy%2CPaste%2CRename.gif)
 
