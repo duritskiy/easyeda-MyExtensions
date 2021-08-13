@@ -12,7 +12,5 @@
  
  3) Reload Easy-eda.
 
-
-
-
+![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/v1.0/SmartCopyPaste.gif)
 
