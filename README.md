@@ -16,14 +16,23 @@
 ### SmartCopyPast scripts description:
 
 #### In SCH:
-  Select part of scheme, then Copy and Paste, then Rename and Save.
+  Select part of scheme, then **1SmartCopy.js** and **2SmartPaste.js**, then **3SmartRenamePref.js** and **Save**.
 
 ![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/v1.0/1%20Sch%20-%20Copy%2CPaste%2CRename.gif)
 
 #### In Pcb:  
-   Select part of scheme, then Copy and Paste, then Rename and Import Changes.
+   Select part of scheme, then **1SmartCopy.js** and **2SmartPaste.js**, then **3SmartRenamePref.js** and **Import Changes**.
 
 ![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/v1.0/2%20Pcb%20-%20Copy%2CPaste%2CRename.gif)
+
+   Select, then **SmartReconnectTracks**, and then **Import Changes** to Verify.
+
+![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/v1.0/3%20Pcb%20-%20SmartReconnectTracks.gif)
+
+
+
+
+
 
 
 
