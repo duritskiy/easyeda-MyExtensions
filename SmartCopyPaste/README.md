@@ -19,3 +19,9 @@
 
 
 
+#### Enother example
+![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SmartCopyPaste/Video%20-%20SmartCopyPaste.gif)
+
+
+
+
