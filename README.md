@@ -35,10 +35,10 @@ In my repository you can find such scripts:
 [[JoinTracks]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/JoinTracks)/
 [JoinTracks.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/JoinTracks/JoinTracks.js)</br>
 
-[CopperArea_Clone.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/CopperArea_Clone.js)
-[CopperArea_RebuildAll.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/CopperArea_RebuildAll.js)
-[SelectLike.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SelectLike.js)
-[ShowHidePref.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/ShowHidePref.js)
+[CopperArea_Clone.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/CopperArea_Clone.js)</br>
+[CopperArea_RebuildAll.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/CopperArea_RebuildAll.js)</br>
+[SelectLike.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SelectLike.js)</br>
+[ShowHidePref.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/ShowHidePref.js)</br>
 
 ### [SmartCopyPaste](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/SmartCopyPaste) scripts description:
 #### Creates correct duplicate circuits in SCH and PCB
