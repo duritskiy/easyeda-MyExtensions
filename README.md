@@ -20,17 +20,25 @@ But most of my scripts won't work without **MyExtention** installed.
 **User Script** is a java script file with a **.js** extension.
 In my repository you can find such scripts:
 
-* \SmartCopyPaste\1SmartCopy.js
-* \SmartCopyPaste\2SmartPaste.js
-* \SmartCopyPaste\3SmartRenamePref.js
-* \SmartCopyPaste\4SmartReconnectTracks.js
-* \ReplaceSchlib\ReplaceSchlib.js
-* \JoinTracks\JoinTracks.js
-* \CopperArea_Clone.js
-* \CopperArea_RebuildAll.js
-* \SelectLike.js
-* \ShowHidePref.js
+[[SmartCopyPaste]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/SmartCopyPaste)/
+[1SmartCopy.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SmartCopyPaste/1SmartCopy.js)</br>
+[[SmartCopyPaste]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/SmartCopyPaste)/
+[2SmartPaste.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SmartCopyPaste/2SmartPaste.js)</br>
+[[SmartCopyPaste]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/SmartCopyPaste)/
+[3SmartRenamePref.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SmartCopyPaste/3SmartRenamePref.js)</br>
+[[SmartCopyPaste]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/SmartCopyPaste)/
+[4SmartReconnectTracks.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SmartCopyPaste/4SmartReconnectTracks.js)</br>
 
+[[ReplaceSchlib]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/ReplaceSchlib)/
+[ReplaceSchlib.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/ReplaceSchlib/ReplaceSchlib.js)</br>
+
+[[JoinTracks]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/JoinTracks)/
+[JoinTracks.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/JoinTracks/JoinTracks.js)</br>
+
+[CopperArea_Clone.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/CopperArea_Clone.js)
+[CopperArea_RebuildAll.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/CopperArea_RebuildAll.js)
+[SelectLike.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SelectLike.js)
+[ShowHidePref.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/ShowHidePref.js)
 
 ### [SmartCopyPaste](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/SmartCopyPaste) scripts description:
 #### Creates correct duplicate circuits in SCH and PCB
