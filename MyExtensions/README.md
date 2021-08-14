@@ -9,6 +9,3 @@
 
 
 ![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/Video%20MyExtensions.gif)
-
-
-
