@@ -14,6 +14,32 @@ But most of my scripts won't work without **MyExtention** installed.
  2) Then (or before) you must install any of your (or mine) Easy-eda **java scripts**.
  3) Reload Easy-eda.
   
+### Install Main Extension (`MyExtensions`)
+
+`MyExtensions` provides a menu in the toolbar to easily choose any EasyEDA User Script you have installed, it also provides some support for the scripts in `easyeda-MyExtensions` and is required to use them.
+
+  1. Download Zip and extract files
+  2. In EasyEDA Select Advanced > Extensions > Extensions Setting
+  3. Click Load Extension
+  4. Click Select Files
+  5. In the file dialog that opens, navigate to the "`MyExtensions`" folder which was unzipped and select all the files in that folder which includes `manifest.json`, `main.js`, `locale.txt`... you must choose all the files at once (shift-click) in the dialog, click open/ok in the file dialog.
+  6. Extension ID should be filled out and say MyExtensions, click Load extension button with the tick next to it.
+  7. Make sure you have saved any changes to open project, and then reload EasyEDA
+
+### Install Scripts (eg `ReplaceSchlib`)
+
+After you have installed the `MyExtensions` above, you can then install the scripts you want to use.
+
+  1. In EasyEDA select Advanced > Extensions > Load Script
+  2. Click "Install..." button
+  3. In the file dialod that appears locate the script `*.js` file - for example `ReplaceSchlib.js`
+  4. Click open/ok in the file dialog
+  5. Make sure you have saved any changes to open project, and then reload EasyEDA
+
+### Using MyExtension Menu
+
+After reloading you will see the `MyExtension` menu in the toolbar and can choose from scripts to run.  Some scripts require that you must choose things before you run them, for example, `ReplaceSchlib` script you must choose all the items you want to replace, and the last item the one you want to replace those items with (each is replaced with a copy).
+
 ![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/Video%20MyExtensions.gif)
 
 # My User Scripts description:
@@ -70,7 +96,6 @@ In my repository you can find such scripts:
 
 First you need to select the components to be replaced and the last one is the replacement sample.
 ![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/ReplaceSchlib/Video%20-%20ReplaceSchlib.gif)
-
 
 
 
