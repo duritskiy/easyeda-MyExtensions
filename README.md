@@ -40,6 +40,8 @@ After you have installed the `MyExtensions` above, you can then install the scri
 
 After reloading you will see the `MyExtension` menu in the toolbar and can choose from scripts to run.  Some scripts require that you must choose things before you run them, for example, `ReplaceSchlib` script you must choose all the items you want to replace, and the last item the one you want to replace those items with (each is replaced with a copy).
 
+(Please note that the following pictures are GIF animation, and in order for it to start playing you must click on the "Play" button in the upper right corner of this gif-picture)
+
 ![Preview](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/Video%20MyExtensions.gif)
 
 # My User Scripts description:
