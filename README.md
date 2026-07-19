@@ -53,9 +53,7 @@ In my repository you can find such scripts:
 [[SmartCopyPaste]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/SmartCopyPaste)/
 [2SmartPaste.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SmartCopyPaste/2SmartPaste.js)</br>
 [[SmartCopyPaste]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/SmartCopyPaste)/
-[3SmartRenamePref.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SmartCopyPaste/3SmartRenamePref.js)</br>
-[[SmartCopyPaste]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/SmartCopyPaste)/
-[4SmartReconnectTracks.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SmartCopyPaste/4SmartReconnectTracks.js)</br>
+[3SmartReconnectTracks.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/SmartCopyPaste/3SmartReconnectTracks.js)</br>
 
 [[ReplaceSchlib]](https://github.com/duritskiy/easyeda-MyExtensions/tree/main/ReplaceSchlib)/
 [ReplaceSchlib.js](https://github.com/duritskiy/easyeda-MyExtensions/blob/main/ReplaceSchlib/ReplaceSchlib.js)</br>
